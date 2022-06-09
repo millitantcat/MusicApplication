@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447991187727",
+    "project_id": "musicapplication-51e8c",
+    "storage_bucket": "musicapplication-51e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447991187727:android:099e5d70c028c0508a167a",
+        "android_client_info": {
+          "package_name": "com.rosewhat.musicapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447991187727-pm098br788865lo3cgk9k7o41u48kqb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vVQqU8p_mIxWvPYDJtWDfrHWeZVZ8aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447991187727-pm098br788865lo3cgk9k7o41u48kqb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
